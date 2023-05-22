@@ -1,6 +1,5 @@
 import React from 'react';
 import { nanoid } from 'nanoid';
-
 import { FormAdd } from './FormAdd/FormAdd';
 import { ContactList } from './ContactList/ContactList';
 import { Search } from './Search/Search';
